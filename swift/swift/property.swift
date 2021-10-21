@@ -85,7 +85,7 @@ func propertyfunction(){
 
     var gameNum = 1;
     while gameNum < 10 {
-        gameNum++;
+        gameNum+=1;
     }
     
     
